@@ -11,7 +11,7 @@ Create a deep learning neural network that can detect human posture from silhoue
 
 The dataset comes with each image resized to the dimension of 512x512 px. Images have not been labeled directly but have been placed in respective class folders based off the posture in the image.
 
-# Data Collection and Preprocessing
+## Data Collection and Preprocessing
 Source: https://ieee-dataport.org/open-access/silhouettes-human-posture-recognition License: Creative Commons Attribution Details on the Terms of Use for this License: https://creativecommons.org/licenses/by/4.0/ and https://creativecommons.org/licenses/by/4.0/legalcode
 
 About IEEE Dataport
